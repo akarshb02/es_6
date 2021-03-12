@@ -37,4 +37,4 @@ function unique(array) {
 
 }
 unique(numbers);
-console.log(uniq);
+console.log(uniq); 
